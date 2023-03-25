@@ -11,6 +11,7 @@
 .container .menu{
 	grid-column:1/4 ;
 	grid-row:1/2 ;
+	text-align:center;
 
 }
 
@@ -45,6 +46,10 @@ p{
 
 section{
 	background-color: lightslategray;
+}
+
+h1{
+	text-align:center;
 }
 
 @media(min-width:768px) and (max-width:991px){
